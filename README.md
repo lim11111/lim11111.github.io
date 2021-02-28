@@ -23,7 +23,6 @@
     <!-- <a href="rectal.html" target="_blank"><font size="7">직장:평촌경영고등학교</font></a><br> -->
     <!-- <font size="7">수상:콘텐츠공모전 장려상</font><br> -->
     <!-- <font size="7">자격증:ppt,Excel</font><br> -->
-    <!-- <font size="7">취미:웹툰보기</font><br> -->
 
   </body>
 </html>
